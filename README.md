@@ -1,4 +1,4 @@
-C++ implementation of Pronunciation-enhanced Chinese Word Embedding (PCWE).
+C++ implementation of Pronunciation-enhanced Chinese Word Embedding (PCWE): [Yang, Q., Xie, H., Cheng, G. et al. Pronunciation-Enhanced Chinese Word Embedding. Cogn Comput (2021). ](https://link.springer.com/article/10.1007/s12559-021-09850-9#citeas)
 
 # Directory Structure
 	
